@@ -1,0 +1,16 @@
+{
+    "datasets": [
+        {
+            "name": "Bike",
+            "folder": "/home/jinzhi/hdd10T/space4New/yijie/datasets/Synthetic_NSVF/Bike",
+            "bbox": "/home/jinzhi/hdd10T/space4New/yijie/datasets/Synthetic_NSVF/Bike/bbox.txt",
+            "chunk_structure": "/home/jinzhi/hdd10T/space4New/yijie/output/nsvf_new/Bike/chunk_structure/10000_0.08.npy"
+        },
+        {
+            "name": "Spaceship",
+            "folder": "/home/jinzhi/hdd10T/space4New/yijie/datasets/Synthetic_NSVF/Spaceship",
+            "bbox": "/home/jinzhi/hdd10T/space4New/yijie/datasets/Synthetic_NSVF/Spaceship",
+            "chunk_structure": "/home/jinzhi/hdd10T/space4New/yijie/output/nsvf_new/Spaceship/chunk_structure/10000_0.08.npy"
+        }
+    ]
+}
