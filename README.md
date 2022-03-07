@@ -6,6 +6,10 @@ This repo is a collection of code segments that help coding more efficient and c
 
 3.7 2022 Update
 
-**Inverse depth sampling function** in notes/3D tricks.ipynb
+**inverse depth sampling function** in notes/3D tricks.ipynb
 
-**Randomly select items in a list** in notes/tricks.ipynb
+**randomly select items in a list** in notes/tricks.ipynb
+
+**meshgrid torch** in notes/3D tricks.ipynb
+
+**transform from pixel to camera and reversely** in notes/3D tricks.ipynb
